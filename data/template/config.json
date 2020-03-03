@@ -16,20 +16,13 @@
     "description": "過去三十日數據"
   },
   "title": "Calpa 的技術博客",
-  "gitalk": {
-    "repo": "calpa.github.io",
-    "admin": ["calpa"],
-    "owner": "calpa",
-    "clientID": "18255f031b5e11edd98a",
-    "clientSecret": "2ff6331da9e53f9a91bcc991d38d550c85026714",
-    "pagerDirection": "first",
-    "distractionFreeMode": true
-  },
+  "azureAccessSignature": "?sv=2019-02-02&ss=f&srt=sco&sp=r&se=2020-03-04T06:59:00Z&st=2020-03-03T22:59:00Z&spr=https,http&sig=VZQptAf1Yf6lRIz7fjSUG1Se%2FjrVPoMHijO17VjhBME%3D",
+    
   "License": "by",
   "friends": [
     {
-      "href": "https://calpa.me",
-      "title": "Calpa's Blog"
+      "href": "https://denstorerejse.blog",
+      "title": "Den Store Rejse"
     }
   ],
   "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
@@ -37,17 +30,34 @@
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
-      "href": "/guestbook/",
-      "title": "留言簿"
+      "href": "/",
+      "title": "Hjem"
     },
     {
-      "href": "/tags/",
-      "title": "Tags"
+      "href": "/tag/Thailand",
+      "title": "Thailand"
     },
     {
-      "href": "/2018/05/01/about-calpa-liu/",
-      "title": "關於作者"
+      "href": "/tag/Vietnam",
+      "title": "Vietnam"
+    },
+    {
+      "href": "/tag/Australien",
+      "title": "Australien"
+    },
+    {
+      "href": "/tag/Indonesien",
+      "title": "Indonesien"
+    },
+    {
+      "href": "/tag/Kort",
+      "title": "Kort"
+    },
+    {
+      "href": "/tag/OmOs",
+      "title": "OmOs"
     }
+
   ],
   "redirectors": [
     {
@@ -63,7 +73,7 @@
     }
   ],
   "zhihuUsername": "piao-xue-wu-ying",
-  "githubUsername": "calpa",
+  "githubUsername": "cbmdk",
   "maxPostsInPage": 10,
-  "facebook": "calpablog"
+  "facebook": "cbmdk"
 }

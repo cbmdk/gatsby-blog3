@@ -5,8 +5,6 @@
 import React, { Component } from 'react';
 import { graphql } from 'gatsby';
 
-import 'gitalk/dist/gitalk.css';
-
 import { parseChineseDate } from '../api';
 
 import ExternalLink from '../components/ExternalLink';
@@ -16,20 +14,18 @@ import SEO from '../components/SEO';
 
 import Header from '../components/Header';
 // import TableOfContent from '../components/TableOfContent';
-import ShareBox from '../components/ShareBox';
 
 import { config } from '../../data';
 
 // Styles
 import './blog-post.scss';
 
-const { name, iconUrl, gitalk } = config;
+const { name, iconUrl } = config;
 
 const bgWhite = { padding: '10px 30px', background: 'white' };
 
 // Prevent webpack window problem
 const isBrowser = typeof window !== 'undefined';
-const Gitalk = isBrowser ? require('gitalk') : undefined;
 
 class BlogPost extends Component {
   constructor(props) {
@@ -40,13 +36,6 @@ class BlogPost extends Component {
   componentDidMount() {
     const { frontmatter, id: graphqlId } = this.data.content.edges[0].node;
     const { title, id } = frontmatter;
-
-    const GitTalkInstance = new Gitalk({
-      ...gitalk,
-      title,
-      id: id || graphqlId,
-    });
-    GitTalkInstance.render('gitalk-container');
   }
 
   render() {
@@ -85,12 +74,7 @@ class BlogPost extends Component {
             />
             。
           </div>
-
-          <div id="gitalk-container" />
         </div>
-
-        <ShareBox url={slug} />
-
         <SEO
           title={title}
           url={slug}
