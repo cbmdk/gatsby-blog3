@@ -18,11 +18,14 @@ module.exports = ({ actions, graphql }) => {
             }
             frontmatter {
               tags
+              templateKey
               slug
+              id
               title
               url: slug
               date
               tags
+              description
               headerImage
             }
           }

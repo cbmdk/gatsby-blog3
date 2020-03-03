@@ -2,6 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Card from '../components/Card';
 import SEO from '../components/SEO';
+import Sidebar from '../components/Sidebar';
 
 // eslint-disable-next-line react/prop-types
 const TagPage = ({ data, pageContext }) => {
@@ -15,7 +16,7 @@ const TagPage = ({ data, pageContext }) => {
           margin: 15,
         }}
       >
-        {/* <Sidebar /> */}
+        <Sidebar />
 
         <div className="col-xl-10 col-lg-7 col-md-12 col-xs-12 order-2">
           <div
@@ -61,11 +62,13 @@ export const pageQuery = graphql`
         node {
           id
           frontmatter {
+            id
             url: slug
             title
             date
             tags
             headerImage
+            description
           }
         }
       }

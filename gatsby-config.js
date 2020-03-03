@@ -10,14 +10,14 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-catch-links',
-    // 'gatsby-plugin-webpack-bundle-analyzer',
-    // {
-    //   resolve: 'gatsby-source-filesystem',
-    //   options: {
-    //     path: `${__dirname}/src/content`,
-    //     name: 'pages',
-    //   },
-    // },
+    'gatsby-plugin-webpack-bundle-analyzer',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/content`,
+        name: 'pages',
+      },
+    },
     {
       resolve: 'gatsby-transformer-remark',
       options: {

@@ -10,6 +10,7 @@ import 'gitalk/dist/gitalk.css';
 import { parseChineseDate } from '../api';
 
 import ExternalLink from '../components/ExternalLink';
+import Sidebar from '../components/Sidebar';
 import Content from '../components/Content';
 import SEO from '../components/SEO';
 
@@ -68,7 +69,7 @@ class BlogPost extends Component {
           authorImage={iconUrl}
           subTitle={parseChineseDate(date)}
         />
-        {/* <Sidebar /> */}
+        <Sidebar />
         <div className="col-xl-7 col-lg-6 col-md-12 col-sm-12 order-10 content">
           <Content post={html} />
           <div className="m-message" style={bgWhite}>
@@ -109,6 +110,7 @@ export const pageQuery = graphql`
       slug
     }
     frontmatter {
+      id
       title
       slug
       date
@@ -124,6 +126,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
+          id
           html
           excerpt
           ...post

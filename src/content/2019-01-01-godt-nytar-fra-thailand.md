@@ -1,11 +1,13 @@
 ---
+# templateKey: blog-post
+# id: c192eaba9fefc632acf87ed636593475
 title: GODT NYTÅR, fra Thailand
 slug: godt-nytar-fra-thailand
 date: 2019-01-01T16:17:00.000Z
 date_updated: 2019-01-02T07:45:18.000Z
+headerImage: https://i.imgur.com/mich3dS.jpg
 tags: 
     - Thailand
-headerImage: https://i.imgur.com/mich3dS.jpg
 ---
 
 Så er vi landet i Thailand. Det vil sige, det gjorde vi allerede d. 30 december, men det er først nu der har været tid til at vi kunne sætte os ned og skrive lidt.

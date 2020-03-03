@@ -1,6 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
+import Sidebar from '../components/Sidebar';
 import Tag from '../components/Tag';
 import SEO from '../components/SEO';
 
@@ -33,7 +34,7 @@ const TagPage = ({ data }) => {
           margin: 15,
         }}
       >
-        {/* <Sidebar /> */}
+        <Sidebar />
 
         <div className="col order-2">
           {tags.map(item => (
@@ -42,7 +43,7 @@ const TagPage = ({ data }) => {
         </div>
       </div>
       <SEO
-        title="Tags"
+        title="標籤"
         url="/tags/"
         siteTitleAlt="Calpa's Blog"
         isPost={false}
