@@ -8,11 +8,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/calpa/gatsby-starter-calpa-blog/badge)](https://www.codefactor.io/repository/github/calpa/gatsby-starter-calpa-blog)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/69c4fc63-9bed-44e4-aee4-77ceb456f770/deploy-status)](https://app.netlify.com/sites/calpa/deploys)
 
-[繁體中文](README-zh-Hant.md) | [简体中文](README-zh-Hans.md) | [English](README.md)
-
 ![Home Page](https://i.imgur.com/lVUwIZC.png)
 
-Build a blog system like [Calpa's Blog](https://calpa.me) in ease.
+Build a blog system like [cbmdk's Blog](https://denstorerejse.blog) in ease.
 
 If you like this project, please don't hesitate to star it. Thank you.
 
@@ -54,7 +52,7 @@ You can edit the posts in `/src/content/*.md`, or using Netlify-cms to edit the 
 
 Use the button below to build and deploy your own copy of the repository:
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/calpa/gatsby-starter-calpa-blog" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/cbmdk/gatsby-blog" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template.
 
@@ -64,7 +62,7 @@ Next, it will build and deploy the new site on Netlify, bringing you to the blog
 
 Use the button below to code with the blog system:
 
-[![Edit blog](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/calpa/gatsby-starter-calpa-blog/tree/master/)
+[![Edit blog](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/cbmdk/gatsby-blog/tree/master/)
 
 ## Prerequisites
 
@@ -86,7 +84,7 @@ npm install --global gatsby-cli
 2. Create new Gatsby project using this starter, `awesome-blog` is your blog's folder
 
 ```
-gatsby new awesome-blog https://github.com/calpa/gatsby-starter-calpa-blog
+gatsby new awesome-blog https://github.com/cbmdk/gatsby-blog
 ```
 
 3. Open the folder
@@ -167,21 +165,9 @@ redirectors: [
 
 Gitalk plugin configuration
 
-```JavaScript
-gitalk: {
-    clientID: '18255f031b5e11edd98a',
-    clientSecret: '2ff6331da9e53f9a91bcc991d38d550c85026714',
-    repo: 'calpa.github.io',
-    owner: 'calpa',
-    admin: ['calpa'],
-    distractionFreeMode: true,
-  },
-}
-```
-
 ## Deploy
 
-[Calpa's blog](https://calpa.me) is currently using Netlify, though, you may use Github Pages as an alternative.
+[cbmdk's blog](https://denstorerejse.blog) is currently using Netlify, though, you may use Github Pages as an alternative.
 
 - Github Pages
 
@@ -212,6 +198,6 @@ And don't hesitate to put your star and watch this starter project.
 
 ## Contact
 
-If you are interested in this project, please feel free to contact [Calpa Liu](calpaliu@gmail.com).
+If you are interested in this project, please feel free to contact [Christian B. Mortensen](cbm@cbm.dk).
 
 Thanks For Contribute... :)
