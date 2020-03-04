@@ -16,6 +16,9 @@ module.exports = ({ actions, graphql }) => {
             excerpt(pruneLength: 250)
             fields {
               slug
+              readingTime {
+                text
+              }
             }
             frontmatter {
               tags
@@ -24,7 +27,7 @@ module.exports = ({ actions, graphql }) => {
               id
               title
               url: slug
-              date
+              date(formatString: "MMMM Do, YYYY")
               tags
               description
               headerImage
@@ -58,17 +61,14 @@ module.exports = ({ actions, graphql }) => {
       },
     });
 
-    // 創建文章頁面
     edges.forEach(({ node }, index) => {
       const { id, frontmatter, fields } = node;
       const { slug, tags, templateKey } = frontmatter;
 
-      // 讀取標籤
       if (tags) {
         tags.forEach(item => tagSet.add(item));
       }
 
-      // 允许自定义地址
       let $path = fields.slug;
       if (slug) {
         $path = slug;

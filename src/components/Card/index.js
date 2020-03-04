@@ -24,6 +24,7 @@ const Card = ({
   headerImage,
   headerBackgroundColor,
   description,
+  timeToRead,
   tags = [],
 }) => (
   <div className="col-sm-12 pb-4">
@@ -42,6 +43,7 @@ const Card = ({
             {tags.map(name => (
               <Tag name={name} key={name} />
             ))}
+            {timeToRead}
           </div>
           <Link to={url} href={url}>
             <h4 className="title">{title}</h4>
@@ -63,6 +65,7 @@ Card.propTypes = {
   headerImage: PropTypes.string,
   headerBackgroundColor: PropTypes.string,
   description: PropTypes.string.isRequired,
+  timeToRead: PropTypes.string.isRequired,
   tags: PropTypes.arrayOf(PropTypes.string),
 };
 

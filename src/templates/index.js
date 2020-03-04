@@ -61,6 +61,7 @@ const Page = ({ pageContext }) => {
               url={node.frontmatter.slug ? node.frontmatter.slug : node.fields.slug}
               key={node.fields.slug}
               description={node.excerpt}
+              timeToRead={node.fields.readingTime.text}
             />
           ))}
 
