@@ -13,6 +13,7 @@ module.exports = ({ actions, graphql }) => {
         edges {
           node {
             id
+            excerpt(pruneLength: 250)
             fields {
               slug
             }

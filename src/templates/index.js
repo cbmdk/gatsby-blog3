@@ -60,6 +60,7 @@ const Page = ({ pageContext }) => {
               {...node.frontmatter}
               url={node.frontmatter.slug ? node.frontmatter.slug : node.fields.slug}
               key={node.fields.slug}
+              description={node.excerpt}
             />
           ))}
 
