@@ -1,6 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-
+import PropTypes from 'prop-types';
 import Sidebar from '../components/Sidebar';
 import Tag from '../components/Tag';
 import SEO from '../components/SEO';
@@ -52,6 +52,11 @@ const TagPage = ({ data }) => {
       />
     </div>
   );
+};
+
+TagPage.propTypes = {
+  data: PropTypes.string.isRequired,
+  allMarkdownRemark: PropTypes.string.isRequired,
 };
 
 export default TagPage;

@@ -25,7 +25,7 @@ const { name, iconUrl } = config;
 const bgWhite = { padding: '10px 30px', background: 'white' };
 
 // Prevent webpack window problem
-const isBrowser = typeof window !== 'undefined';
+// const isBrowser = typeof window !== 'undefined';
 
 class BlogPost extends Component {
   constructor(props) {
@@ -78,7 +78,7 @@ class BlogPost extends Component {
         <SEO
           title={title}
           url={slug}
-          siteTitleAlt="Calpa's Blog"
+          siteTitleAlt="Den Store Rejse Blog"
           isPost={false}
           description={excerpt}
           image={headerImage || 'https://i.imgur.com/M795H8A.jpg'}
