@@ -13,7 +13,7 @@ const imageStyle = (headerImage, color) => ({
 
 const CardHeader = ({ url, image, backgroundColor }) => (
   <Link to={url} href={url}>
-    <div className="wrapper" style={imageStyle(image, backgroundColor)} />
+    <div className="wrapper post-card-image-link" style={imageStyle(image, backgroundColor)} />
   </Link>
 );
 
@@ -27,35 +27,77 @@ const Card = ({
   timeToRead,
   tags = [],
 }) => (
-  <div className="col-sm-12 pb-4">
-    <div className="custom-card">
-      {headerImage && (
+  <div className="post-card-content">
+    <a className="post-card-content-link" href={url}>
+
+      <header className="post-card-header">
+        {/* {{#if primary_tag}}
+        {{#primary_tag}}
+        <div class="post-card-primary-tag">{{name}}</div>
+        {{/primary_tag}}
+        {{/if}} */}
+        <h2 className="post-card-title">{title}</h2>
+      </header>
+
+      <section className="post-card-excerpt">
+        {headerImage && (
         <CardHeader
           url={url}
           image={headerImage}
           backgroundColor={headerBackgroundColor}
         />
-      )}
-      <div className="data">
-        <div className="content">
-          <div className="stats">
-            <span className="date">{date.split('T')[0]}</span>
-            {tags.map(name => (
-              <Tag name={name} key={name} />
-            ))}
-            {timeToRead}
-          </div>
-          <Link to={url} href={url}>
-            <h4 className="title">{title}</h4>
-          </Link>
-          <p>{description}</p>
-          <Link to={url} href={url}>
-            Read on...
-          </Link>
-        </div>
+        )}
+        {description}
+        {/* {{#if feature_image}}
+        <p>{{excerpt words="30"}}</p>
+    {{else}}
+        <p>{{excerpt words="44"}}</p>
+    {{/if}} */}
+      </section>
+    </a>
+
+    <footer className="post-card-meta">
+      <ul className="author-list" />
+      <div className="post-card-byline-content">
+        {/* <span>{{#has author="count:>2"}}Multiple authors{{else}}{{authors}}{{/has}}</span> */}
+        <span>Christian</span>
+        <span className="post-card-byline-date">
+          {date}
+          <span className="bull">&bull;</span>
+          {timeToRead}
+        </span>
       </div>
-    </div>
+    </footer>
   </div>
+  // <div className="col-sm-12 pb-4">
+  //   <div className="post-card">
+  //     {headerImage && (
+  //       <CardHeader
+  //         url={url}
+  //         image={headerImage}
+  //         backgroundColor={headerBackgroundColor}
+  //       />
+  //     )}
+  //     <div className="post-card-content">
+  //       <div className="content">
+  //         <div className="stats">
+  //           <span className="date">{date.split('T')[0]}</span>
+  //           {tags.map(name => (
+  //             <Tag name={name} key={name} />
+  //           ))}
+  //           {timeToRead}
+  //         </div>
+  //         <Link to={url} href={url}>
+  //           <h4 className="title">{title}</h4>
+  //         </Link>
+  //         <p>{description}</p>
+  //         <Link to={url} href={url}>
+  //           Read on...
+  //         </Link>
+  //       </div>
+  //     </div>
+  //   </div>
+  // </div>
 );
 
 Card.propTypes = {
