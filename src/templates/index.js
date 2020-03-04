@@ -47,7 +47,7 @@ const Page = ({ pageContext, location }) => {
         }}
       >
         <Header
-          img="https://denstorerejse.file.core.windows.net/dsr/assets/images/size/w2000/2018/12/thailand-phuket-province-phuket-beach.jpg?sv=2019-02-02&ss=f&srt=sco&sp=r&se=2020-03-04T06:59:00Z&st=2020-03-03T22:59:00Z&spr=https,http&sig=VZQptAf1Yf6lRIz7fjSUG1Se%2FjrVPoMHijO17VjhBME%3D"
+          img="https://denstorerejse.blob.core.windows.net/assets/images/size/w2000/2018/12/thailand-phuket-province-phuket-beach.jpg"
           title="Den Store Rejse"
           authorName="Læs med om vores store rejse..."
           authorImage=""
