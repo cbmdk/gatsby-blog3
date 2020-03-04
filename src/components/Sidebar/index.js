@@ -12,7 +12,6 @@ import './index.scss';
 const {
   wordings = [],
   githubUsername,
-  zhihuUsername,
   email,
   iconUrl,
   about,

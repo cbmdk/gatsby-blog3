@@ -1,5 +1,6 @@
 import React from 'react';
 import './index.scss';
+import PropTypes from 'prop-types';
 
 const GithubCorner = ({ url }) => (
   <a href={url} className="github-corner" aria-label="View source on Github">
@@ -10,5 +11,8 @@ const GithubCorner = ({ url }) => (
     </svg>
   </a>
 );
+GithubCorner.propTypes = {
+  url: PropTypes.string.isRequired,
+};
 
 export default GithubCorner;

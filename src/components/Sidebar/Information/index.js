@@ -23,6 +23,7 @@ const Information = ({ totalCount, posts }) => (
 
 Information.propTypes = {
   totalCount: PropTypes.number.isRequired,
+  // eslint-disable-next-line react/forbid-prop-types
   posts: PropTypes.array,
 };
 

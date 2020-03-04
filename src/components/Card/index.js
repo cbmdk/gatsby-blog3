@@ -48,7 +48,7 @@ const Card = ({
           </Link>
           <p>{description}</p>
           <Link to={url} href={url}>
-            ....Read on...
+            Read on...
           </Link>
         </div>
       </div>

@@ -28,6 +28,7 @@ const Dropdown = ({ title, list }) => (
 
 Dropdown.propTypes = {
   title: PropTypes.string.isRequired,
+  list: PropTypes.string.isRequired,
 };
 
 export default Dropdown;
