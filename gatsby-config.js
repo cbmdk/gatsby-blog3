@@ -32,6 +32,14 @@ module.exports = {
           {
             resolve: 'gatsby-remark-external-links',
           },
+          {
+            resolve: 'gatsby-transformer-remark',
+            options: {
+              plugins: [
+                'gatsby-remark-reading-time',
+              ],
+            },
+          },
         ],
       },
     },
