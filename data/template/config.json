@@ -1,21 +1,21 @@
 {
-  "url": "https://calpa.me",
+  "url": "https://denstorerejse.blog",
   "meta": {
     "favicon": "https://i.imgur.com/PO9Y4fT.jpg",
-    "keyword": "calpa, blog, JavaScript",
-    "description": "Calpa 的技術博客，開發日常，以及遇到的坑",
+    "keyword": "cbm, denstorerejse, den, store, rejse, blog, JavaScript",
+    "description": "",
     "theme_color": "#384f7c",
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
-  "name": "calpa",
-  "about": "/2018/05/01/about-calpa-liu/",
-  "email": "calpaliu@gmail.com",
+  "name": "Christian",
+  "about": "/1979/09/12/about-christian/",
+  "email": "cbm@cbm.dk",
   "stats": {
     "image": "https://i.imgur.com/VjBWiSt.png",
     "title": "過去三十日數據",
     "description": "過去三十日數據"
   },
-  "title": "Calpa 的技術博客",
+  "title": "Den Store Rejse 2019",
   "azureAccessSignature": "?sv=2019-02-02&ss=f&srt=sco&sp=r&se=2020-03-04T06:59:00Z&st=2020-03-03T22:59:00Z&spr=https,http&sig=VZQptAf1Yf6lRIz7fjSUG1Se%2FjrVPoMHijO17VjhBME%3D",
     
   "License": "by",
@@ -25,8 +25,8 @@
       "title": "Den Store Rejse"
     }
   ],
-  "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
-  "wordings": ["GatsbyJS, ReactJS", "全週期開發者"],
+  "iconUrl": "https://denstorerejse.file.core.windows.net/dsr/assets/profile.jpg?sv=2019-02-02&ss=f&srt=sco&sp=r&se=2020-03-04T06:59:00Z&st=2020-03-03T22:59:00Z&spr=https,http&sig=VZQptAf1Yf6lRIz7fjSUG1Se%2FjrVPoMHijO17VjhBME%3D",
+  "wordings": ["Vi rejser..."],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "href": "/tag/OmOs",
-      "title": "OmOs"
+      "title": "Om Os"
     }
 
   ],
@@ -72,7 +72,6 @@
       "target": "/stats/"
     }
   ],
-  "zhihuUsername": "piao-xue-wu-ying",
   "githubUsername": "cbmdk",
   "maxPostsInPage": 10,
   "facebook": "cbmdk"

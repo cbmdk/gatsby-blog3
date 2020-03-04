@@ -37,13 +37,12 @@ const Header = ({
             <span className="author-name">{authorName}</span>
           </div>
           <span className="text">{subTitle}</span>
-          {jueJinPostLink &&
-            jueJinLikeIconLink && (
-              <JueJin
-                jueJinPostLink={jueJinPostLink}
-                jueJinLikeIconLink={jueJinLikeIconLink}
-              />
-            )}
+          {jueJinPostLink && jueJinLikeIconLink && (
+            <JueJin
+              jueJinPostLink={jueJinPostLink}
+              jueJinLikeIconLink={jueJinLikeIconLink}
+            />
+          )}
         </div>
       )}
     </div>

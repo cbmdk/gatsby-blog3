@@ -33,8 +33,7 @@ const Navbar = () => (
           gotoPage('/');
         }}
       >
-        <span className="brand-logo">Calpa</span>
-        &apos;s Blog
+        <span className="brand-logo">Den Store Rejse</span>
       </button>
       <button
         className="navbar-toggler"

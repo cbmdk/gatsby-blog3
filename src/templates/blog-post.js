@@ -34,8 +34,8 @@ class BlogPost extends Component {
   }
 
   componentDidMount() {
-    const { frontmatter, id: graphqlId } = this.data.content.edges[0].node;
-    const { title, id } = frontmatter;
+    // const { frontmatter, id: graphqlId } = this.data.content.edges[0].node;
+    // const { title, id } = frontmatter;
   }
 
   render() {

@@ -1,6 +1,7 @@
 ---
 title: Tilbage på Bali, de sidste dage
 slug: tilbage-pa-bali-de-sidste-dage
+headerImage: "https://denstorerejse.file.core.windows.net/dsr/assets/images/size/w2000/2019/04/IMG_0009-6.jpg?sv=2019-02-02&ss=f&srt=sco&sp=r&se=2020-03-04T06:59:00Z&st=2020-03-03T22:59:00Z&spr=https,http&sig=VZQptAf1Yf6lRIz7fjSUG1Se%2FjrVPoMHijO17VjhBME%3D"
 date: 2019-04-28T10:06:47.000Z
 date_updated: 2019-05-08T14:24:58.000Z
 tags: 
