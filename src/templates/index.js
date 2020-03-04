@@ -30,7 +30,7 @@ const NavLink = ({ test, url, text }) => {
   );
 };
 
-const Page = ({ pageContext, location }) => {
+const Page = ({ pageContext }) => {
   const {
     group, index, first, last, pathPrefix,
   } = pageContext;
