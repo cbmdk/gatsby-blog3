@@ -4,13 +4,11 @@ import PropTypes from 'prop-types';
 
 import Tag from '../Tag';
 
-import { parseImgur } from '../../api/images';
-
 import './index.scss';
 
 const imageStyle = (headerImage, color) => ({
   backgroundColor: `#${color}`,
-  backgroundImage: ` url(${parseImgur(headerImage, 'large')})`,
+  backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(${headerImage})`,
 });
 
 const CardHeader = ({ url, image, backgroundColor }) => (

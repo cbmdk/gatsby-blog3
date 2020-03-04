@@ -7,5 +7,5 @@ tags:
     - Danmark
 ---
 
-![](/../../assets/images/2018/12/IMG_3616--1-.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2018/12/IMG_3616--1-.jpg)
 Rejsen tager form og vi arbejder hårdt på at de sidste detaljer kommer på plads. Thailand's Islands and Beaches ser indbydende ud - vi glæder os!!

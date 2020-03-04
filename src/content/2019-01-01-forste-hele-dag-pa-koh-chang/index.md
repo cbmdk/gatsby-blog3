@@ -23,26 +23,26 @@ Fodmassage  til Malene mens Chr puttede - tjek
 
 Hvis der ikke kommer yderligere updates på bloggen i den næste uge, er det fordi ovenstående punkter har gentaget sig selv :)
 
-![](/../../assets/images/2019/01/IMG_3823-1.jpeg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_3823-1.jpeg)
 
-![](/../../assets/images/2019/01/IMG_3829.jpeg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_3829.jpeg)
 
-![](/../../assets/images/2019/01/IMG_3836.jpeg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_3836.jpeg)
 
-![](/../../assets/images/2019/01/IMG_3837.jpeg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_3837.jpeg)
 
-![](/../../assets/images/2019/01/IMG_3848.jpeg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_3848.jpeg)
 
-![](/../../assets/images/2019/01/IMG_3869.jpeg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_3869.jpeg)
 
-![](/../../assets/images/2019/01/IMG_3870.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_3870.jpg)
 
-![](/../../assets/images/2019/01/IMG_5444.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_5444.jpg)
 
-![](/../../assets/images/2019/01/IMG_5455.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_5455.jpg)
 
-![](/../../assets/images/2019/01/IMG_5465.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_5465.jpg)
 
-![](/../../assets/images/2019/01/IMG_5482.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_5482.jpg)
 
-![](/../../assets/images/2019/01/IMG_5500.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/01/IMG_5500.jpg)

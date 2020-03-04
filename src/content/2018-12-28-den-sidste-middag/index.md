@@ -8,7 +8,7 @@ tags:
 ---
 
 Den sidste aften i Danmark i de næste 4 måneder, brugte vi i gode venners lag, hjemme på Vesterbro.
-![](/../../assets/images/2018/12/IMG_6692-3.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2018/12/IMG_6692-3.JPG)
 Vi sover hos Bettina og Kristian i nat, og ved 11 tiden imorgen er vi i lufthavnen... 
 
 Johan vågnede imorges med ordene... FAR... FAAAR... Imorgen sidder vi med fødderne i vandet i Thailand... :)

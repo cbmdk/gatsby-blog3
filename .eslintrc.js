@@ -15,7 +15,7 @@ const eslintrc = {
   },
   rules: {
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
-    'react/forbid-prop-types': 0,
+    // 'react/forbid-prop-types': 0,
     'no-shadow': 'warn',
     'no-console': 0,
     'linebreak-style': 0,

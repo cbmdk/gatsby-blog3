@@ -27,47 +27,47 @@ Ellers har vi nydt vores dage i Hanoi og vi kunne sagtens have brugt flere dage,
 
 I Hanoi brugte vi også meget tid på at drikke kaffe, og de har virkelig god kaffe i landet. Faktisk er Vietnam det 2 største kaffe producent. Bla. fik vi smagt den berømte Hanoi specialitet Eggcoffie, som er noget ala kaffe toppet med æggesnaps. Det mindede mest om et ordentlig balje Galiano shots, hvorfor I kom kan fornemme at man hurtigt fik nok. 
 
-![](/../../assets/images/2019/02/IMG_0001.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0001.jpg)
 
-![](/../../assets/images/2019/02/IMG_0006.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0006.jpg)
 
-![](/../../assets/images/2019/02/IMG_0007.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0007.jpg)
 
-![](/../../assets/images/2019/02/IMG_0008.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0008.jpg)
 
-![](/../../assets/images/2019/02/IMG_5763.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_5763.JPG)
 
-![](/../../assets/images/2019/02/IMG_0009.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0009.jpg)
 
-![](/../../assets/images/2019/02/IMG_0010.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0010.jpg)
 
-![](/../../assets/images/2019/02/IMG_0013.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0013.jpg)
 
-![](/../../assets/images/2019/02/IMG_0017.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0017.jpg)
 
-![](/../../assets/images/2019/02/IMG_0018.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0018.jpg)
 
-![](/../../assets/images/2019/02/IMG_0020-copy.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0020-copy.JPG)
 
-![](/../../assets/images/2019/02/IMG_0020.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0020.jpg)
 
-![](/../../assets/images/2019/02/IMG_0024.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0024.JPG)
 
-![](/../../assets/images/2019/02/IMG_5830.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_5830.JPG)
 
-![](/../../assets/images/2019/02/IMG_5832.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_5832.JPG)
 
-![](/../../assets/images/2019/02/IMG_5836.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_5836.JPG)
 
-![](/../../assets/images/2019/02/IMG_5772.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_5772.JPG)
 
-![](/../../assets/images/2019/02/IMG_5776.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_5776.JPG)
 
-![](/../../assets/images/2019/02/IMG_5782.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_5782.JPG)
 
-![](/../../assets/images/2019/02/IMG_5810.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_5810.JPG)
 
-![](/../../assets/images/2019/02/IMG_0028.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0028.JPG)
 
 På vej til toget! :)
 ## **Togturen til Hue**
@@ -77,23 +77,23 @@ Klokken 19.30 åbnede portene og vi kunne gå ned og finde vores togvogn. Vi hav
 Det var mørkt da toget kørte afsted og den hyggeligste togtur startede. Vi kørte gennem Hanoi oplyste gader og ungerne sad klistrede til vinduet mens vi næsten kørte igennem folks dagligstuer, mens lyset fra byen flakkede i deres øjne og hoveder. Så fantastisk. 
 Da vi nåede udkanten af Hanoi og lyset dæmpede sig, blev det tid til at sige godnat. Johan sov lynhurtigt, men Kirstine underholdt vores kupe og sikkert også andre med lidt skrig og skrål om hvor sulten hun var. Hun sov kl 23! Næste morgen vågnede vi alle ved 7 tiden, og vi skulle lande i Hue ved 10 tiden. Så de næste par timer gik med morgenmad, uno spil og utålmodig venten. Alt i alt var togturen på 14-15 timer virkelig en fed oplevelse.
 
-![](/../../assets/images/2019/02/IMG_0026.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0026.JPG)
 
-![](/../../assets/images/2019/02/IMG_0019-copy-1.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0019-copy-1.JPG)
 
-![](/../../assets/images/2019/02/IMG_0030.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0030.JPG)
 
-![](/../../assets/images/2019/02/IMG_0033.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0033.jpg)
 
-![](/../../assets/images/2019/02/IMG_0027--1-.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0027--1-.jpg)
 
-![](/../../assets/images/2019/02/IMG_0025.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0025.JPG)
 
-![](/../../assets/images/2019/02/IMG_0029.JPG)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0029.JPG)
 
-![](/../../assets/images/2019/02/IMG_0031.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0031.jpg)
 
-![](/../../assets/images/2019/02/IMG_0036.jpg)
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0036.jpg)
 
-![](/../../assets/images/2019/02/IMG_0023.JPG)I Hue... 
+![](https://denstorerejse.blob.core.windows.net/assets/images/2019/02/IMG_0023.JPG)I Hue... 
 Efterfølgende er vi blevet enige om at vi simpelthen kom for hurtigt ned igennem landet med toget, og der var en del ting nord for Hue som vi gerne ville have set. Men det må blive næste gang :)

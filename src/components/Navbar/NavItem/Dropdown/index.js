@@ -9,7 +9,8 @@ const Dropdown = ({ title, list }) => (
       data-toggle="dropdown"
       aria-haspopup="true"
       aria-expanded="false"
-    >{title}
+    >
+      {title}
     </button>
     <div className="dropdown-menu">
       {list.map(item => (
@@ -17,7 +18,8 @@ const Dropdown = ({ title, list }) => (
           className="dropdown-item"
           href={item.href}
           key={item.title}
-        >{item.title}
+        >
+          {item.title}
         </a>
       ))}
     </div>
