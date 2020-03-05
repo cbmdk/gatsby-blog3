@@ -55,7 +55,10 @@ const Page = ({ pageContext }) => {
         />
         <Sidebar />
         <div className="col-xl-6 col-lg-7 col-md-12 col-xs-12 order-2">
-          {group.map(({ node }) => (
+        <main id="site-main" className="site-main outer">
+              <div className="inner posts">
+                <div className="post-feed">
+                  {group.map(({ node }) => (
             // <Card
             //   {...node.frontmatter}
             //   url={node.frontmatter.slug ? node.frontmatter.slug : node.fields.slug}
@@ -63,9 +66,7 @@ const Page = ({ pageContext }) => {
             //   description={node.excerpt}
             //   timeToRead={node.fields.readingTime.text}
             // />
-            <main id="site-main" className="site-main outer">
-              <div className="inner posts">
-                <div className="post-feed">
+
                   <article className="post-card post tag-indonesien post-card-large">
                     <a className="post-card-image-link" href="/tilbage-pa-bali-de-sidste-dage/">
                       <img
@@ -106,10 +107,10 @@ const Page = ({ pageContext }) => {
 
                     </div>
                   </article>
+                  ))}
                 </div>
               </div>
-            </main>
-          ))}
+        </main>
 
           <div
             className="row"
